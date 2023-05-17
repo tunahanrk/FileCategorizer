@@ -1,0 +1,7 @@
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\bin\Debug\FileCategorizer.exe.config
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\bin\Debug\FileCategorizer.exe
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\bin\Debug\FileCategorizer.pdb
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\obj\Debug\FileCategorizer.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\obj\Debug\FileCategorizer.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\obj\Debug\FileCategorizer.exe
+C:\Users\Tunahan\source\repos\FileCategorizer\FileCategorizer\obj\Debug\FileCategorizer.pdb
